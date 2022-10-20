@@ -16,8 +16,8 @@ mysql需要创建interview_test默认库
 ## Running the app
 
 项目集成了docker技术
-![Image text](https://github.com/zhaojunyi0016/hls/blob/master/img_1.png)
-由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目
+![Image text](https://github.com/zhaojunyi0016/hls/blob/master/img_1.png) 
+由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目.
 
 进入项目路径
 cd [Project Path]
