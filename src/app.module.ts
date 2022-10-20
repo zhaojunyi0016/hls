@@ -17,7 +17,7 @@ import {ScheduleModule} from "@nestjs/schedule";
             "host": "localhost",
             "port": 3306,
             "username": "root",
-            "password": "password",
+            "password": "root",
             "database": "interview_test",
             "synchronize": true,
             autoLoadEntities: true,

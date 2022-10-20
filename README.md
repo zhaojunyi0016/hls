@@ -17,7 +17,7 @@ mysql需要创建interview_test默认库
 ## Running the app
 
 ```bash
-项目继承了docker技术,  只需执行以下启动命令即可启动程序, 不需要额外安装对应组件依赖<BR>
+项目集成了docker技术,  只需执行以下启动命令即可启动程序, 不需要额外安装对应组件依赖<BR>
 # development
 $ npm run start   //启动项目
 
