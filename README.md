@@ -1,13 +1,12 @@
 ## Description
 
- 该项目是由 Nest + typeScript + typeORM + mysql + redis + docker +swagger <BR>等技术栈组成
-
-## Installation
+该项目是由 Nest + typeScript + typeORM + mysql + redis + docker +swagger     等技术栈组成
 
 项目集成了docker技术
 由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目.
 ![Image text](https://github.com/zhaojunyi0016/hls/blob/master/img.png)
 
+## Running the app
 ```bash
 安装NestJS 
 $ npm install -g typescript
@@ -17,7 +16,7 @@ $ npm install -g @nestjs/cli
 mysql需要创建interview_test默认库
 
 
-## Running the app
+
 
 进入项目路径
 cd [Project Path]
