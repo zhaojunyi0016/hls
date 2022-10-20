@@ -14,7 +14,7 @@ mysql需要创建interview_test默认库
 
 
 ## Running the app
-```bash
+
 项目集成了docker技术
 ![Alt](![](img_3.png))
 由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目
