@@ -4,6 +4,13 @@
 
 ## Installation
 
+
+项目集成了docker技术
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/zhaojunyi0016/hls/blob/master/img.png)
+由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目.
+
+
 ```bash
 安装NestJS 
 $ npm install -g typescript
@@ -14,11 +21,6 @@ mysql需要创建interview_test默认库
 
 
 ## Running the app
-
-项目集成了docker技术
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://github.com/zhaojunyi0016/hls/blob/master/img.png) 
-由于打的镜像一直推送不到官方仓库, 目前只能本地启动项目.
 
 进入项目路径
 cd [Project Path]
